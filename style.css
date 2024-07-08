@@ -8,5 +8,8 @@
 }
 
 body {
+    min-height: 100vh;
     background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+    background-size: cover;
+    background-position: center;
 }
